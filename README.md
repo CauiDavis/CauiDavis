@@ -2,11 +2,11 @@
 - 🔭 Atualmente cursando Ciência da Computação no Instituto Federal do Maranhão - Campus Caxias
 
 ## GitHub Analytics
-<div align="center">
+<div>
   <a href="https://github.com/cauidavismatosdeoliveira">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=cauidavismatosdeoliveira&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauidavismatosdeoliveira&layout=compact&langs_count=10&theme=cobalt"/>
-</div>
+  <img height="180em" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=cauidavismatosdeoliveira&show_icons=true&count_private=true&theme=react">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cauidavismatosdeoliveira&layout=compact&langs_count=10&theme=react"/>
+</div><br/>
   
   ## Tecnologias que uso no dia a dia
   
