@@ -9,6 +9,10 @@
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cauidavismatosdeoliveira&theme=react&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cauidavismatosdeoliveira}/count.svg" /></p> 
+<br></div>
  
 ## Tecnologias que uso no dia a dia
   
@@ -38,7 +42,4 @@
   ![Snake animation](https://github.com/cauidavismatosdeoliveira/cauidavismatosdeoliveira/blob/output/github-contribution-grid-snake.svg)
   
   </div>
-<div align="center">
-<br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cauidavismatosdeoliveira}/count.svg" /></p> 
-<br></div>
+
