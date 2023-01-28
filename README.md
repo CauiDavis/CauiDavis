@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F6BAD&size=15&center=true&vCenter=true&width=1000&lines=Oiii,+eu+sou+o+Caui+Davis;Atualmente+estou+cursando+ciências+da+computação+no+instituto+federal+do+maranhão+-+campus+caxias;Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F6BAD&size=17&center=true&vCenter=true&width=1000&lines=Oiii,+eu+sou+o+Caui+Davis;Atualmente+estou+cursando+ciências+da+computação+no+instituto+federal+do+maranhão+-+campus+caxias;Bem-vindo!+:%29)](https://git.io/typing-svg)
 ## GitHub Analytics
 <div>
   <a href="https://github.com/cauidavismatosdeoliveira">
