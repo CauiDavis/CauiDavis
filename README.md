@@ -3,11 +3,11 @@
 ## GitHub Analytics
 <div>
   <a href="https://github.com/cauidavismatosdeoliveira">
-  <img height="180em" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=cauidavismatosdeoliveira&show_icons=true&count_private=true&theme=react">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cauidavismatosdeoliveira&layout=compact&langs_count=10&theme=react"/>
+  <img height="180em" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=cauidavismatosdeoliveira&show_icons=true&count_private=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cauidavismatosdeoliveira&layout=compact&langs_count=10&theme=tokyonight"/>
 </div><br/>
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cauidavismatosdeoliveira&theme=react&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=cauidavismatosdeoliveira&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
