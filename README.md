@@ -3,15 +3,15 @@
 ## GitHub Analytics
 <div>
   <a href="https://github.com/cauidavismatosdeoliveira">
-  <img height="180em" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=cauidavismatosdeoliveira&show_icons=true&count_private=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cauidavismatosdeoliveira&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="180em" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=CauiDavis&show_icons=true&count_private=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CauiDavis&layout=compact&langs_count=10&theme=tokyonight"/>
 </div><br/>
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cauidavismatosdeoliveira&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CauiDavis&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cauidavismatosdeoliveira}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CauiDavis}/count.svg" /></p> 
 <br></div>
  
 ## Tecnologias que uso no dia a dia
@@ -44,7 +44,7 @@
   <a href="https://www.instagram.com/cauidavis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caui-davis-05a06224b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/cauidavismatosdeoliveira/cauidavismatosdeoliveira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/CauiDavis/CauiDavis/blob/output/github-contribution-grid-snake.svg)
   
   </div>
 
