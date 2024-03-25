@@ -1,14 +1,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F6BAD&size=17&center=true&vCenter=true&width=1000&lines=Oiii,+eu+sou+o+Caui+Davis;Atualmente+estou+cursando+ciências+da+computação+no+instituto+federal+do+maranhão+-+campus+caxias;Bem-vindo!+:%29)](https://git.io/typing-svg)
 ## GitHub Analytics
-<div>
-  <a href="https://github.com/CauiDavis">
-  <img height="180em" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=CauiDavis&show_icons=true&count_private=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CauiDavis&layout=compact&langs_count=10&theme=tokyonight"/>
-</div><br/>
+[![Caui github stats](https://bad-apple-github-readme.vercel.app/api?username=CauiDavis&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=tokyonight&title_color=00b3ff)](#)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=CauiDavis&layout=compact&count_private=true&theme=tokyonight&title_color=00b3ff)](#)
+[![John Mwendwa's current streak](https://github-readme-streak-stats-blush.vercel.app/?user=CauiDavis&count_private=true&theme=tokyonight&title_color=00b3ff)](#)
+
+<br/>
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CauiDavis&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
+<p align="center">
+    <a href="https://wakatime.com/@Goblin8888">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CauiDavis&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CauiDavis}/count.svg" /></p> 
