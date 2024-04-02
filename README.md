@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F6BAD&size=17&center=true&vCenter=true&width=1000&lines=Oiii,+eu+sou+o+Caui+Davis;Atualmente+estou+cursando+ciências+da+computação+no+instituto+federal+do+maranhão+-+campus+caxias;Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F6BAD&size=17&center=true&vCenter=true&width=1000&lines=Oiii,+eu+sou+o+Caui+Davis;Sou+graduado+em+ciência+da+computação+no+instituto+federal+do+maranhão+-+campus+caxias;Bem-vindo!+:%29)](https://git.io/typing-svg)
 ## GitHub Analytics
 [![Caui github stats](https://bad-apple-github-readme.vercel.app/api?username=CauiDavis&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=tokyonight&title_color=00b3ff)](#)
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=CauiDavis&layout=compact&count_private=true&theme=tokyonight&title_color=00b3ff)](#)
