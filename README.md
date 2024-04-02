@@ -3,7 +3,7 @@
 ## GitHub Analytics
 [![Caui github stats](https://bad-apple-github-readme.vercel.app/api?username=CauiDavis&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=tokyonight&title_color=00b3ff)](#)
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=CauiDavis&layout=compact&count_private=true&theme=tokyonight&title_color=00b3ff)](#)
-<a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=CauiDavis&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+<a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=CauiDavis&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="100%" alt="@Goblin's github-readme-streak-stats"/></a>
 
 <br/>
   <p align="center">
