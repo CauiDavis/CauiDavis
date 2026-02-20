@@ -1,26 +1,32 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F6BAD&size=17&center=true&vCenter=true&width=1000&lines=Oiii,+eu+sou+o+Caui+Davis;Sou+graduado+em+ciência+da+computação+no+instituto+federal+do+maranhão+-+campus+caxias;Bem-vindo!+:%29)](https://git.io/typing-svg)
 ## GitHub Analytics
-[![Caui github stats](https://bad-apple-github-readme.vercel.app/api?username=CauiDavis&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=tokyonight&title_color=00b3ff&hide=stars,prs,issues,contribs)](#)
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=CauiDavis&layout=compact&count_private=true&theme=tokyonight&title_color=00b3ff)](#)
-<a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=CauiDavis&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="100%" alt="@Goblin's github-readme-streak-stats"/></a>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CauiDavis&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CauiDavis&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CauiDavis&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CauiDavis&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CauiDavis&theme=tokyonight&utcOffset=8)
+
+</div>
+
+
+<!-- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=CauiDavis&layout=compact&count_private=true&theme=tokyonight&title_color=00b3ff)](#)
+<a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=CauiDavis&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="100%" alt="@Goblin's github-readme-streak-stats"/></a> -->
 <br/>
-  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CauiDavis&theme=tokyonight&title=-Issues,-Reviews,-Stars,-PullRequest&row=2&column=3&margin-w=15&margin-h=15"/>
-</p>
+
+ 
 
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=CauiDavis&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="70%" alt="activity graph">
     </a>
-</p>
+</p> -->
 
 
-<div align="center">
-<br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CauiDavis}/count.svg" /></p> 
-<br></div>
  
 ## Tecnologias que uso no dia a dia
   
